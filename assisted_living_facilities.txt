@@ -1,0 +1,60 @@
+Name: Overlake Terrace Assisted & Senior Living, Address: 2956 152nd Ave NE, Redmond, WA 98052, United States
+Name: Sunrise of Redmond, Address: 15241 NE 20th St, Bellevue, WA 98007, United States
+Name: Bellevue AFH, Address: 1603 143rd Ave NE, Bellevue, WA 98007, United States
+Name: Cornerstone Adult Family Home, Address: 1319 142nd Pl NE, Bellevue, WA 98007, United States
+Name: Sunrise of Bellevue, Address: 15928 NE 8th St, Bellevue, WA 98008, United States
+Name: EVERLASTING COMFORT AFH, Address: 14811 NE 11th Pl, Bellevue, WA 98007, United States
+Name: Halcyon House, Address: 1200 134th Ave NE #1200, Bellevue, WA 98005, United States
+Name: Silverado Bellevue Memory Care Community, Address: 14428 NE 8th St, Bellevue, WA 98007, United States
+Name: Magdalina's Adult Family Home, Address: 2001 164th Ave NE, Bellevue, WA 98008, United States
+Name: Ivanhoe Senior Care Inc 1, Address: 3004 164th Pl NE, Bellevue, WA 98008, United States
+Name: A1 Senior Care Advisors, Address: 16301 NE 8th St #121, Bellevue, WA 98008, United States
+Name: Kelsey Creek Senior Care, LLC, Address: 657 130th Ave NE, Bellevue, WA 98005, United States
+Name: Sunny's Adult Family Home, Address: 2709 165th Ave NE, Bellevue, WA 98008, United States
+Name: Crossroads Active Senior Apartments - SHAG, Address: 1390 158th Pl NE, Bellevue, WA 98008, United States
+Name: Brookwood House Inc, Address: 610 129th Pl NE, Bellevue, WA 98005, United States
+Name: Careage Home Health, Address: 14450 NE 29th Pl #106, Bellevue, WA 98007, United States
+Name: The Park at Belle Harbour Assisted Living Community, Address: 2168 116th Ave NE, Bellevue, WA 98004, United States
+Name: Silver Glen, Address: 1750 152nd Ave NE # 1, Bellevue, WA 98007, United States
+Name: Redmond Advanced Senior Care LLC, Address: 5039 158th Ave NE, Redmond, WA 98052, United States
+Name: Bellevue Elderly Care, Address: 102 162nd Ave SE SE, Bellevue, WA 98008, United States
+Name: Leisure Senior Care Center, AFH, Address: 412 166th Ave NE, Bellevue, WA 98008, United States
+Name: Eastside Care AFH, LLC, Address: 2228 169th Ave NE, Bellevue, WA 98008, United States
+Name: Angel Caring Adult Family Homes, Address: 3650 Bel-Red Rd, Bellevue, WA 98008, United States
+Name: Lake Hills Living, AFH, Address: 136 164th Ave NE, Bellevue, WA 98008, United States
+Name: Aegis Living Marymoor, Address: 4585 West Lake Sammamish Pkwy NE, Redmond, WA 98052, United States
+Name: Evergreen Court Retirement Community, Address: 900 124th Ave NE, Bellevue, WA 98005, United States
+Name: Tranquil Afh, Address: 16825 NE 18th St, Bellevue, WA 98008, United States
+Name: Mountain View Adult Family Home, Address: 503 171st Pl NE, Bellevue, WA 98008, United States
+Name: Abundant Life Elderly Care, Inc., Address: 1906 172nd Ave NE, Bellevue, WA 98008, United States
+Name: Aegis Living Bellevue Overlake, Address: 1845 116th Ave NE, Bellevue, WA 98004, United States
+Name: All Star Adult Family Home LLC, Address: 16715 NE 6th Pl, Bellevue, WA 98008, United States
+Name: Bellevue Quality Care Inc., Address: 252 153rd Pl SE, Bellevue, WA 98007, United States
+Name: The Inn at Belle Harbour Memory Care Community, Address: 2188 116th Ave NE, Bellevue, WA 98004, United States
+Name: Wilburton Senior Care, Adult Family Home, Address: 496 123rd Pl NE, Bellevue, WA 98005, United States
+Name: Tina's Exceptional Care Adult, Address: 16924 NE 14th St, Bellevue, WA 98008, United States
+Name: Life Care Adult Family Home, Address: 4 165th Ave SE, Bellevue, WA 98008, United States
+Name: Mindful Senior Care, Address: 17416 NE 38th St, Redmond, WA 98052, United States
+Name: Mission Healthcare at Bellevue, Address: 2424 156th Ave NE, Bellevue, WA 98007, United States
+Name: Lochmoor Adult Family Home Inc., Address: 1258 169th Pl NE, Bellevue, WA 98008, United States
+Name: Precious Home, Address: 1130 170th Ave NE, Bellevue, WA 98008, United States
+Name: Bellevue Senior Care (Adult Family Home), Address: 13841 SE 10th St, Bellevue, WA 98005, United States
+Name: Viewridge Eastside Corporation, Address: 5406 158th Pl NE, Redmond, WA 98052, United States
+Name: Aegis Living Redmond, Address: 7480 West Lake Sammamish Pkwy NE, Redmond, WA 98052, United States
+Name: Sunshine Park Adult Family Home, Address: 12649 SE 4th Pl, Bellevue, WA 98005, United States
+Name: Redmond Elderly Care | Senior Care, Address: 15333 NE 66th Ct, Redmond, WA 98052, United States
+Name: Aegis Living Bellevue, Address: 148 102nd Ave SE, Bellevue, WA 98004, United States
+Name: The Bellettini, Address: 1115 108th Ave NE, Bellevue, WA 98004, United States
+Name: Bellevue Rose AFH, Address: 212 153rd Pl SE, Bellevue, WA 98007, United States
+Name: The Watermark at Bellevue, Address: 121 112th Ave NE, Bellevue, WA 98004, United States
+Name: Pacific Regent Bellevue Senior Living, Address: 919 109th Ave NE, Bellevue, WA 98004, United States
+Name: Ohana Hale Senior Living of Bellevue, Address: 13700 SE 23rd Ln, Bellevue, WA 98005, United States
+Name: Redmond Heights Senior Living, Address: 7950 Willows Rd NE, Redmond, WA 98052, United States
+Name: Peters Creek Retirement Center, Address: 14431 Redmond Way, Redmond, WA 98052, United States
+Name: Aegis Living Kirkland Waterfront, Address: 1002 Lake St S, Kirkland, WA 98033, United States
+Name: Synergy Adult Family Home Care, Address: 1008 145th Pl SE, Bellevue, WA 98007, United States
+Name: ADULT FAMILY HOME- 1st Lake Hills Home Care, Address: 17014 SE 14th Ln, Bellevue, WA 98008, United States
+Name: Cogir of Kirkland, Address: 6505 Lakeview Dr, Kirkland, WA 98033, United States
+Name: Merrill Gardens at Kirkland, Address: 14 Main St S, Kirkland, WA 98033, United States
+Name: The Gardens at Town Square, Address: 933 111th Ave NE, Bellevue, WA 98004, United States
+Name: Lakemont Senior Living Inc., Address: 16734 SE 46th St, Bellevue, WA 98006, United States
